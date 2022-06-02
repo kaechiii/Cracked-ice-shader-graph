@@ -10,6 +10,6 @@ The cracked ice shader graph:
 
 ![](https://github.com/kaechiii/Cracked-ice-shader-graph/blob/main/Gif/Result.gif)
 
-The referense I’m using:
+The reference I’m using:
 
 ![](https://github.com/kaechiii/Cracked-ice-shader-graph/blob/main/Gif/Reference.gif)
